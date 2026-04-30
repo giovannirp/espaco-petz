@@ -14,7 +14,7 @@ O Espaço Petz foi desenvolvido para:
 
 (Você pode ajustar essa parte conforme o foco real do seu projeto)
 
-#🚀 Tecnologias Utilizadas
+🚀 #Tecnologias Utilizadas
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
